@@ -1,0 +1,183 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1700882286434">
+<rowcount="57">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="Structure">
+<columnProperty="specialType	idcode">
+<columnName="idcoordinates2D">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	idcoordinates2D">
+<columnName="FragFp">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+<columnName="Core Fragment">
+<columnProperty="specialType	idcode">
+<columnName="R1">
+<columnProperty="specialType	idcode">
+<columnName="R2">
+<columnProperty="specialType	idcode">
+<columnName="R3">
+<columnProperty="specialType	idcode">
+<columnName="R4">
+<columnProperty="specialType	idcode">
+<columnName="FragFp 2">
+<columnProperty="parent	R4">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+<columnName="Ring Systems">
+<columnProperty="specialType	idcode">
+</column properties>
+idcoordinates2D	FragFp	FragFp 2	Header Name	Structure	Core Fragment	R1	R2	R3	R4	Ring Systems
+	zrzxUpOMdJ7w0IAAUN2W29@P0BFJ9V5046t47BX8G2V84VWV6VJZhX0J881W15V0dW53Y9255!VF1F6!6830		CHEMBL488824	fmw`P`BXEMX@bl`vP{HYHhideMDdeLYEXRgdqKSSL@@AETt@HTP	difHHHH@egG``_EIf[kjfj`@	eFJB@Hh@	dmtD`@QPAInUwaZ@BP@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFD`Bs`BLdTTIUSRp@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrUtUlOMdJ7w0HAAUN2W29@P0BFJ9V5046t47BX8G2V84VWV6VJZhX0J8!W15V0dW53Y9251!VF1F60108V0		CHEMBL442620	fmwPb`LKUL@P`HKHUdFrFQQJIQIKQSKRIjDYXN^mUHL@DEQM@BCD	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmvH`DAPAInUwaZ@BP@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxU_OMdJ7w0IAAUN0W29@P0BF49V5046t07BX8G2V84VWV6VJZhX0J801W15V0dW13W8255!VF1F6!6030		CHEMBL450222	fakaa@LJ[t@P`HrJIQJIIZJYGJDYXNRmUHL@DAM@BCD	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInUwaZ@BP@@	daD@`N@DjWjXHB@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	>U:KjxvzQvUrDYHfQUiCfM5VS577x4D7ngQ7YJVVYX6KqZqa2CBV1YJ5cycc51aWH5510V01FE80a8I0		CHEMBL451804	fkQa`LFUlx@a@QhHKHUdFrFQQJIQJIESSRIWJDXxHymUPKADEPDt@@@	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dknDPDtpBL@Df^UvFVh@I`@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		gOyDLpDHHRY\ujf@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	>U:KjxvzQzUzDYHvQUiCfM5XS777z4E7ngQ7YRXVYX6MqZqa3ECV1YREcycd51aWH5510V01FEB0a8I0		CHEMBL451805	eg`TBF@LCEIck`@a@HtBBiBjPZdLbbTRbTRJffdRlJaCC`PrsUTBpQATDSP@@@	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dg^LPDd{@Hp@rJKQIPjBkT@QL@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		gOyDLpDHHRY\ujf@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	;vzvU:pzxvyvvEzDXTfQziEzUCVJ57bx4E7ngO6bRZd3XqpqZuZ0SBV0YK5ciVW51b1L5W1FXF1FD82Y@FV		CHEMBL452564	fgQPRIQ`cE@`BMAE`aHPnPwHGdKzFNoNRRVIKJZIQ[QIPrC`oQzMZfjZif@BjX@@	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dknBpIaLh@cP`pCIIKDeeNEZfjY@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		gKQ@@eKcRp@<NL>gOyDLpDHHRY\ujf@@<NL>gFp@DiTt@@@
+	>x:REwYrAvUoDWmAQTbCAMWVC557x4D7mcG7lF0klf6OoZpa2CB09YH5emcZ51a1H5530c8GF7!6830		CHEMBL452565	fmwab`LJfl@P`HKHUdFrFQQJIQIKQSKRIjDYXN^mUPL@DEQM@@@	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInUwaZ@B`@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		gOyDLpDHHRY\ujf@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAEUN2W2O@P0BFJ9XC046v47BX8IAV84VWV6XJZhX0J801W1EV0dd5AYd275!VGGF7!6830		CHEMBL460075	fcoaa`LJWl@P`HKHUdFrGYCHheDhdehideHnhQe`yFuT`p@PUQM@BCD	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInUwaZ@BP@@	dcL@h@dAdIdEdM@DfYVmn`HJh@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAEUN2W2O@P0BFJ9X5246v47BX8G2V86VWV6XJZdX0L801W17V0dW53YC275V0VF1F6406830		CHEMBL461375	fco`R`LJfoX@a@PVPkHMdLbbTRbRVbfVdTZaFVCgkURC@AATTt@HLP	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dcLL`@Qm@Dfyg\YZB@d@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAEUN2W2O@P0BFJ9XB046v47BX8IAV84VWV6XJZdV0J801W1EV0dd5AYh275!VGGF7!6830		CHEMBL461381	fcoaa`LJWl@P`HKHUdFrGYCHheDhdehideHixQe`yfuT`p@PUTM@BCD	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPCHihdh^Eh@I@@	dcL@h@dAdIdEdM@DfYVmn`HJh@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxU_OMdJ7w0IAEUN0W2O@P0BF49Y5046tV7BX8G@V84VWV6VJZhX0J80WW15W0dW1AW8@55!WF1F6186030		CHEMBL461575	fi{aa@LJzL@P`HrJIQJIJKQPhyPcGQKUjiAb@HBZ@DFH	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInUwaZ@BP@@	did@`N@DjYmaBH`@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrztUlOMdJ7w0HAEUN2W2O@P0BFJ9X5246v47BX8G2V86V1V6VJZdX1L8!W95V0WW53YC@71V0VF1F64F2B10		CHEMBL461576	fcoac`@dYxFHKDLDQBIrByC\adTTTtqTRbvbRadyIpV}`bHfif@BjHAAR@	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dcLDpBXLP\SPCHhhiictpQDR@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		gFp@DiTt@@@<NL>daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAAEN2W29@P0BFJ9V4046t47BX8G2V84VWV6VJZdV0J801W15V0dW53YC255!VF1F6!6830		CHEMBL461759	fmwab`LJfl@P`HKHUdFrFQQJIQIKQSKRJNDYXNQmUHL@DETM@BCD	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPCHihdh^Eh@I@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAAUN2W29@P0BFJ9V5046t47BX8G2V84VWV6VJZhX0J801W15V0dW53Y9255!VF1F6!6830		CHEMBL461939	fmwab`LJfl@P`HKHUdFrFQQJIQIKQSKRIjDYXN^mUHL@DEQM@BCD	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInUwaZ@BP@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUpOMdo7w4IAAUN2W29@P0BFJ9VC246t47BX8I3V84V1V6VJodXFJ8!W15V0Wd53Y9251V2VF5F7!6830		CHEMBL461941	fk`R`LJGlx@a@PVPkHMdLbbTRbRVbfVdSRTHrp\}ZjPX@HJbih@PX`	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dklL`@Pc@Dfue]eVj@BP@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAEUN2W29@80BFJ9XC046t47BX8H3V86VVV6VJ4hV0J801W17VFdd53WdX55!VGGF1086830		CHEMBL470100	fmwab`LJjt@P`HGHSdErBSKKJoOJstQe`yzuT`p@PSET@HLP	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInYTYZ@`P@@	dmt@H@dDdLdE@LbdLRVFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAEUN2W2O@P0BFJ9W7046vZ7BX8G@V84VWV6XKZhX1J80WW1CW0dY5AY925508WG1F6106830		CHEMBL470101	fcoaa`BFWlDPhHtDAdHrBYCHhheEhhjiEXdlhrVk]GAAPsSU@ALPBCh	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInUwaZ@BP@@	dcL@h@bJ@IdEdMdLbbbQTc]@PUP@@		gFp@DiTt@@@<NL>daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAEUN2W2O@P0BFJ9Y5046tZ7BX8G@V84VWV6VJZhX0J80WW17W0dW5AY9@55!WF1F6186830		CHEMBL472190	fcoab`LJWl@P`HkHMdNrFQQJIQIQZJEZQMPcGQJMjiAb@HJbZ@DFH	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInUwaZ@BP@@	dcL@H@dDdLdM@LbdLTRdkU@PP@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrztUlOMdJ7w0HAEUN2W2O@P0BFJ9V5246v47BX8G2V84V1V6VJZdX1L8!W95V0WW53YC@51V0VF1F6!2810		CHEMBL472191	fmw`R`LJ{MX@a@PVPkHMdLbbTRbRVbfVdTSHrp\cZjPX@HJhj@DFH	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtL`@Ie@LbbbfJxXH`d@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAAUN2W29@P0BFJ9VC046t47BX8I3V84VVV6VJ4hV0J801W15VFdd53Yh255!VGGF1!6830		CHEMBL472192	fmwab`LJfl@P`H[H]dArBSKKJoNk]LQe`ijuT`p@AQTt@HLP	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPCHihdh^Eh@I@@	dmt@H@dDdLdE@LbdLRVFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAAUN2W29@P0BFJ9V5046t47BX8G2V84VWV6VJZhX0J801W15V0dW53Y9255!VF1F6!6830		CHEMBL472354	eohXLA@LEKg`@a@HjdFiCjPFdIiAZPJDaDaDaDQLaHQDrHRHRT`abpHkYjiA`@hJjbZ@BAa@	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInUwaZ@BP@@	do|@x@dDdLdM@CdKdGdLbdLRTVdFZh@Jj@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAEUN2W2O@P0BFJ9XE046v47BX8IAV84VWV6XJZhX0J801W1EV0df5AYd275!VGGF7!6830		CHEMBL472355	fcoaa`MAWlDPJPeHJdGAG`cHhhdiMXhiThdlhsgh}G@PUULs@ALPBDX	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInUwaZ@BP@@	dcL@h@bAdIdEdM@DfYVmn`HJh@@		gFp@DiTt@@@<NL>daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAEEN2W2O@P0BFJ9Y404LtZ7BX8G@V94VVV6XJ4dV0J80WW17l0dW5AYC2K5!WF1F0106830		CHEMBL472528	fmwab`LJfl@P`HSHYdBrFQQJIQIQZIRYNZDXzKQmUHLPATDM@BCD	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPCHihdh^Eh@I@@	dmt@H@dDdLdA@LbdLTReZhB@@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrztUlOMdJ7w0HAEUN2W2O@P0BFJ9X5246v47BX8G2V86V1V6VJZdX1L8!W95V0WW53YC@51V0VF1F64F2810		CHEMBL486671	fmw`R`LJRMX@a@QVP[H]dLbbTRbRVbfbtfgHrpRsZjPX@JBjJ@DFH	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtL`@Ie@LbbbfexXH`d@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrUtUlOMdJ7w0HAAUN2W29@u0BFJ9V5046t47BX8I2V84cWV6VJZhX0J8!W15V0WW53Y925d!VF1F6!3@!		CHEMBL486672	fko`Sb@pQcp@`pQDHgHKdMrA}CGGgIIKDedheEmDeCHAR\EoUh@IjY`@jb@PT`	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dcLLPHS@BM@LddlRVPrm@AH@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		gFp@DiTt@@@<NL>daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@
+	zrUtUlOMdJ7w0HAAUN2l29@PVBFJ9VC046t67BX8GIV84VWV6WJZhX4J880WW5V0dW53Y9251!VF1FL01V8k0		CHEMBL486835	eg`\DJ@LEkeI`@a@HJdJiAjPrJIQJIIZJYZQMSIDLVAY]MUHL@DEQMU@A@p`	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dg]H`DTK@LbbTRRQTzuAAD`@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUpOMdo7w4IAAUN2_29@P0BFJ9VCV46t47Be8GIV84VWV6VJZhX4J801W15V0dW53Y9255!VF1FL#8!		CHEMBL486836	fkab`LJfl@P`HKHUdFrFQQJIQIKQSKRIjYDYXN^mUHL@DEQMT@HLP	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dklD`@PpAIee_YUjB@d@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrUtUlOMdJ7w0HAEUN2W2O@u0BFJ9X5046vZ7BX8I2V86cWV6VJZhX1J8!W1EV0WW53YCX5d!VF1F6!3@!		CHEMBL487833	edTXNIBBhDLO@hl`@`pHlBJ`bzP^dOi@GPatLNbxFXYrRRqQIKQRIR{QIPr@RJIEK[KPDCTmLp@UQ@DBb@	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	f`a@s@HHqYw`AF`@pQddebbRQddiZ@`YX@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		gFp@DiTt@@@<NL>daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@
+	zrztUlOMdo7w0HAEUN2W2O@P0BFJ9X5246vZ7BX8I2V86V1V6XJZdXGL9!W9CV0WW53YC@71V0VJ1F64F2B10		CHEMBL487834	fkac`HdXDFIKDlDIBErFy@|adTTTRfjbTVtRTLgE^ct\DQQMSL@ETPBFd	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dklDpBXLR\PpCHhhheM^VBHhd@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		gFp@DiTt@@@<NL>daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAEUN2W2O@P0BFJ9XC246v47BX8I3V86VVV6XJ4hX0L801W17VFdd53Yh275V0VGGF1406830		CHEMBL488016	fco`R`LJfoX@a@PvP{HCdDfVVU^]VzVHrpTeZjPX@@bjf`AAb@	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dcLL`@Qm@Dfyg\YZB@d@@	dmt@H@dDdLdE@LbdLRVFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrztUlOMdo7w0HAEUN2W2O@P0BFJ9X5246vZ7BX8G2V86V1V6VJZdXGL8!W95V0WW53Y9X51!VJ1F64!B!		CHEMBL488521	fmw`a`OL\CDtDABArDyA\adTRTrrbTVtRTLeNV}Ul@QSTs@AUD@aI@	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtHPFCDT@RYVwkh@bd@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		gFp@DiTt@@@<NL>daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@
+	zrztUlOMdo7w0HAAUN2W29@P0BFJ9V5246t47BX8I2V84V1V6VJZdXFJ8!W15V0WW53Y9251V0VF1F6#8!		CHEMBL488522	feg`b`LJF@HPDEdJrCYCHheDhdehieiDtQe`yzuT`p@PUEP@`q@	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	deTH`@d@Rfuunh@I@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxzpOMto7w5IAAUN2_29@P0BFJ9VC046t47Be8GIV84VWV6VJZhX4J801W55V0dW53Y9255!VF1FM8!8!		CHEMBL488660	e`TXJJ@LEIecg`@a@HJdJiAjPrJIQJIIZJYZQMSIJDLVAY]MUHL@DEQMTt@DCB@	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	f`a@R@@Hx[pAdTRbRRtQeijBBFd@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUlOMdJ7w0HAAUN2l29@PVBFJ9Vh046t67BX8GIV84VWV6WJZhX4J880l15V0dW53Y9251!VF1FL!X8G0		CHEMBL488700	eg`TLJ@LEeIk`@a@HJdJiAjPrJIQJIIZJYZQMSIDLVAY]MUHL@DEQMU@A@p`	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dg^D`DA[@LbbTRRQTzuAAD`@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxzpOTtJEw1I9AUR@l2A@PVCFL8V5842t63B28GHZ@4kWV6WF4hX0J081W5180dW42Y9015!VF!2!6830		CHEMBL488823	fcoab`LBWl@P`H[H]dArFQQJIIZJIIJXrJpe@ySUjiZ@@@bjZ@DFH	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInUwaZ@BP@@	dcL@H@dDdLdM@LbdLRTHsU@AP@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	:UvzvU:KjxvyQvUrDYHfQziCfM5VR577x4D7ngQ7YJVcYX6KqZqa2CBV0YJ5cyVc51aWH5d10V01FE80Y@F0		CHEMBL509100	eo`TBADEDhDLH`@`pH\BL`cZPNdKiA{Ppyz\ddlRVRfbTVtRTL`DdBRFfV`@ijfX@Jh`@@	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dg^LpEaL@HLHl@rRRqIYJCJt@EL@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		gFp@DiTt@@@<NL>gOyDLpDHHRY\ujf@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAEEN2W29@P0BFJ9X4046t47BX8G2V86VWV6VJZdV0J801W17V0dW53Y9X55!VF1F6086830		CHEMBL511818	fmwab`LJGL@P`HkHMdNrBSKKJoMstrQe`eVuT`p@TESD@HLP	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInYTYZ@`P@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAAUN2W29@80BFJ9VC046t47BX8H3V84VVV6VJ4hX0J801W15VFdd53Wd255!VGGF1!6830		CHEMBL512017	fmwab`LJfl@P`HkHMdNrFQQJIQIKQYIZQVDYXJRmUHL@@QUM@BCD	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInUwaZ@BP@@	dmt@H@dDdLdE@LbdLRVFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAEEN2W2O@80BFJ9Y404LtZ7BX8F@V96VVV6XJ4dV0J80WW17l0dW5AW9XK5!WF1F0186830		CHEMBL512539	fmwab`LJGL@P`HSHYdBrFQQJIQIQZIRZIqDXzOUmUHLPAU@q@BCD	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInYTYZ@`P@@	dmt@H@dDdLdA@LbdLTReZhB@@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrUtUlOMdJ7w0HAAEN2W29@u0BFJ9V4046t47BX8G2V84V1V6VJZdX0J8F0W15V0WW53Y9251!VF1F6!380F		CHEMBL513068	fi{PbbL]TL@P`HKHUdFrGYGvQQJIQIKQSKRIdYXN^mUHL@DEQP@`q@	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	difHaH@P@NbTfUvf`@d@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFx@@eJf`@@@
+	zrzxUpOMdJ7w0IAEUN2W2O@P0BFJ9Y524LvZ7BX8G@V96VVV6XJ4dX0L80WW17l0dW5AYC2M5V0WF1F0506830		CHEMBL513072	fco`R`LJfoX@a@PfPsHEdLbbTRbRbtRdr\raFNbwkURCD@U@Tt@HLP	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dcLL`@Qm@Dfyg\YZB@d@@	dmt@H@dDdLdA@LbdLTReZhB@@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzxUpOMdJ7w0IAEUN2W2O@80BFJ9Y504LtZ7BX8F@V94VVV6XJ4hX0J80WW17l0dW5AW92K5!WF1F0106830		CHEMBL513075	fmwab`LJfl@P`HSHYdBrFQQJIQIQZIRYOJDXzK^mUHLPATAM@BCD	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtD`@QPAInUwaZ@BP@@	dmt@H@dDdLdA@LbdLTReZhB@@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrztUlOMdJ7w0HAAUN2W29@P0BFJ9V5246t47BX8G2V84V1V6VJZdX0J8!W15V0WW53Y9251V0VF1F6!2810		CHEMBL513552	fi{`b`LJF@HPDEdJrCYCHheDhdehieiDrLlGOVjdF@BBhh@PX`	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	didH`@D@RYWZZ@BP@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrztUlOMdJ7w0HAEUN2W2O@P0BFJ9V5246v47BX8G2V84V1V6VJZdX1L8!W15V0WW53YC@51V0VF1F6!2B10		CHEMBL518808	fmw`c`OD\CDybZB@a@yB\`nPrJJKQEQJKZIJFQ`k^jvBBIjY`@jb@Pd`	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dmtHpBCD{DT@rJJKQEa``bP@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		gFp@DiTt@@@<NL>daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@
+	zrztUlOMdJ7w0HAEUN2W2O@P0BFJ9V5246v47BX8G2V84V1V6VJZdX1L8!W95V0WW53YC251V0VF1F6!2810		CHEMBL519082	fegab`LJ{L@P`HKHUdFrFQQJIQIKQSKRJ\cKArMjiA`@`jb`AAb@	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	deTD`@JPAIf]vzB@d@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrUtUlOMdJ7w0HAAEN2W29@P0BFJ9V4046t47BX8G2V84V1V6VJZdV0J8F0W15V0WW53Y9251!VF1F6#80F		CHEMBL520739	fakQB`L]T@HPDEdJrCYAIeeeWfwiHrp\}ZjPX@HJb@DFH	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	daF@`@x@Re]J`@d@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFx@@eJf`@@@
+	zrzxUpOMdo7w4IAAEN2W29@P0BFJ9V4246t47BX8G2V84V1V6VJodVFJ8!W95V0WW53YC25102VF5F6!6830		CHEMBL521207	fk`R`LJ{lx@a@PVPkHMdLbbTRbRVbfVdT^THrp\cZjPX@HJhih@PX`	difHHHH@egG``_EIf[kjfj`@	eFA@H`BJ@	dklL`@Pc@LbfRbRaeVj@BP@@	dmt@H@dDdLdE@LbdLRTFZh@H@@		daFHPLx@a@aIeTjZiX@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	qHuJ6K918F1k0G21GN21080V04FF!1!HF450V0280841VV02F0B204!1814VFc142VW044#G1F#783V		CHEMBL455385	fakpc@MV\whIADabPrJPqIYQKJIKJBeYvRuP@Tm@ALP@@	foApb@DDiYpGEIevUvIQVjV`@f`@@	dmt@H@dDdLdE@LbdLRVFZh@H@@				gFp@DiTt@@@<NL>gK\@ADeKbuH@<NL>gFp@DiTt@@@
+	qHuJ6K918F1k0G21GN21080m04FF!1!HF450V0380841VV02F0B204!1814VFc142X_044#G1F2!783V		CHEMBL452820	fakpc@MV\whIADabPrJPqISSKJIKJBUYvRuPADm@ALP@@	foApb@DDiYpGEIevUvIQVjV`@f`@@	dmt@H@dDdLdE@LbdLRTFZh@H@@				gFp@DiTt@@@<NL>gK\@ADeKbuH@<NL>gFp@DiTt@@@
+	zrzpMoOKdF4w012DTN2W2N2u04FF928246I450X83GV860WV0X4V9V4L8F111EV0c9523_065$H0640b8IV		CHEMBL452558	fegq``LDit\pAAYBl`vPrQQSZJIIJZFQJXiXOdtsP@@DUTt@@@	f`qPB`LT@xhBKRCiCtadTRVbRadIQVjZ`@jd@@	dcNL`EAFt@R[f]qehHB`@@				gKTHLPDIRxtl@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zrzpMoOKdF4w012@TN2W282u04FF909046G450X83GV040WV0X40CX4J8F1115VFc9523_045$H02!b8IV		CHEMBL452053	fi{p``LDitX@cL`VPkHYHhimEDdeLYEYbe`~SSM@@@QUM@@@	f`qPB`LT@xhBKRCiCtadTRVbRadIQVjZ`@jd@@	dmvD`IAE@DfyW^Eh@J@@				gKTHLPDIRxtl@@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zqvp6KOK8F4s0G2BRN2W0N0m04FF92824LH450V8310861WV0XBV8V060F181DV0c9522_065$H0640a8IV		CHEMBL452052	fegQ``LDKUh@cl`NPgHISNlrjw[]XiXOdtsP@@DTuT@@@	f`q`B`L@\TAEiAtazPrJIYQIPrDhkUMP@UR@@@	dcNL`EAFt@R[f]qehHB`@@				gKXHL@aJWFe`@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	zqvp6KOK8F4s0G28RN2W080m04FF90904LF450V831!41VV0XB0BX040F1814VFc9522_045$H02!a8IV		CHEMBL451791	fi{P``LDzL@PVPkHMdDigVYU^~fqRp_Qif`@@Bjf`@@	f`q`B`L@\TAEiAtazPrJIYQIPrDhkUMP@UR@@@	dmvD`IAE@DfyW^Eh@J@@				gKXHL@aJWFe`@<NL>gFp@DiTt@@@<NL>gFp@DiTt@@@
+	;vzuSMxF7w12@AEN6VH8@u6CFJ9V!4Lt4C9V818k84W1V22wVNV0JN!815V0VW51Y12411!F1F60X3810		CHEMBL527432	ek`ZDB@BIemclA@@bjPZdNiCIEELdihddicHkDbJODhbmcjYjPhEJjZVJ@@@	ek`ZHJ@LIemce@GE@HJdJiAjPrJIQJIIZJYZQMQHabpKKkXzjjBPhejfeR`@@	eFJB@Hh@				gFyHC`DISImLp@<NL>dcl`@@aLRevU|JUefef`@<NL>gFp@DiTt@@@
+	;vvuSMxF7w12@AEN6VH8@u6CFJ9V!4LO4C9V818k84W1V22wVNV0JN!815V0VW51Y12411!F1F60X3810		CHEMBL461940	ek`ZHJ@LIemce@@a@HJdJiAjPrJIQJIIZJYZQMQHabpKKkXyjjBPhejfeR`@@	ek`ZHJ@LIemce@GE@HJdJiAjPrJIQJIIZJYZQMQHabpKKkXzjjBPhejfeR`@@	eFA@H`BJ@				gFxDL@aABSJZuR@@<NL>gFp@DiTt@@@<NL>dcl`@@aLRevU|JUefef`@
+			CHEMBL487654							
+			CHEMBL488825							
+<datawarrior properties>
+<axisColumn_2D View_0="Header Name">
+<axisColumn_2D View_1="Header Name">
+<axisColumn_2D View_2_0="Header Name">
+<axisColumn_2D View_2_1="Header Name">
+<axisColumn_3D View_0="Header Name">
+<axisColumn_3D View_1="Header Name">
+<axisColumn_3D View_2="Header Name">
+<axisColumn_Core Structures_0="R1">
+<axisColumn_Core Structures_1="R2">
+<chartType_2D View="scatter">
+<chartType_2D View_2="scatter">
+<chartType_3D View="scatter">
+<chartType_Core Structures="scatter">
+<columnFilter_Table="">
+<columnWidth_Table_Core Fragment="100">
+<columnWidth_Table_Header Name="253">
+<columnWidth_Table_R1="100">
+<columnWidth_Table_R2="100">
+<columnWidth_Table_R3="100">
+<columnWidth_Table_R4="100">
+<columnWidth_Table_Ring Systems="100">
+<columnWidth_Table_Structure="100">
+<currentRecord="1">
+<detailView="height[Data]=0.125;height[Structure]=0.125;height[Core Fragment]=0.125;height[R1]=0.125;height[R2]=0.125;height[R3]=0.125;height[R4]=0.125;height[Ring Systems]=0.125">
+<faceColor3D_3D View="-1250054">
+<fastRendering_2D View="false">
+<fastRendering_2D View_2="false">
+<fastRendering_3D View="false">
+<fastRendering_Core Structures="false">
+<filter0="#browser#	#disabled#	Header Name	CHEMBL442620">
+<filter1="#string#	Header Name">
+<filter2="#structure#	Structure">
+<filter3="#category#	Core Fragment">
+<filter4="#category#	R1">
+<filter5="#category#	R3">
+<filter6="#simList#	R4">
+<filter7="#category#	Ring Systems">
+<filterAnimation0="state=stopped">
+<headerLines_Table="2">
+<mainSplitting="0.7053">
+<mainView="2D View">
+<mainViewCount="6">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	center">
+<mainViewDockInfo2="Structures	center">
+<mainViewDockInfo3="Core Structures	center">
+<mainViewDockInfo4="2D View_2	bottom	0.51">
+<mainViewDockInfo5="2D View	right	0.501">
+<mainViewInFront0="true">
+<mainViewName0="Table">
+<mainViewName1="Structures">
+<mainViewName2="Core Structures">
+<mainViewName3="2D View_2">
+<mainViewName4="2D View">
+<mainViewName5="3D View">
+<mainViewType0="tableView">
+<mainViewType1="structureView">
+<mainViewType2="2Dview">
+<mainViewType3="2Dview">
+<mainViewType4="2Dview">
+<mainViewType5="3Dview">
+<markersize_Core Structures="0.6">
+<rightSplitting="0.6087">
+<rotationMatrix_3D View00="1">
+<rotationMatrix_3D View01="0">
+<rotationMatrix_3D View02="0">
+<rotationMatrix_3D View10="0">
+<rotationMatrix_3D View11="1">
+<rotationMatrix_3D View12="0">
+<rotationMatrix_3D View20="0">
+<rotationMatrix_3D View21="0">
+<rotationMatrix_3D View22="1">
+<rowHeight_Table="80">
+<scaleStyle_2D View="frame">
+<scaleStyle_2D View_2="frame">
+<scaleStyle_3D View="arrows">
+<scaleStyle_Core Structures="frame">
+<scatterplotMargin_2D View="0.025">
+<scatterplotMargin_2D View_2="0.025">
+<scatterplotMargin_3D View="0.025">
+<scatterplotMargin_Core Structures="0.025">
+<showNaNValues_2D View="true">
+<showNaNValues_2D View_2="true">
+<showNaNValues_3D View="true">
+<showNaNValues_Core Structures="true">
+<splitViewAspect_Core Structures="1.0">
+<splitViewColumn1_Core Structures="Core Fragment">
+<splitViewShowEmpty_Core Structures="false">
+<structureGridColumn_Structures="Structure">
+<structureGridColumns_Structures="6">
+<titleBackground_Core Structures="-2039553">
+</datawarrior properties>
